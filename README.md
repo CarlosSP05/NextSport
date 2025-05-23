@@ -31,7 +31,9 @@ El tema que hemos elegido hacer sobre el proyecto es de una tienda de botas de f
   
 - Entorno de desarrollo (Nivel de dificultad: intermedio)
   Realizamos la subida del proyecto al GIT con todas sus actualizaciones,y luego realizamos las pruebas unitarias:
+  
   -> La primera prueba que realizamos fue la de ConexionMySQLTest que verifica la conexión a la base de datos.
+  
   -> La segunda prueba que realizamos fue la de FiltroMultipleTest que básicamente lo que hace es permitir al usuario filtrar la tabla de botas de fútbol.
 
   CONCLUSIÓN
