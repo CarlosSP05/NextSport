@@ -40,4 +40,4 @@ El tema que hemos elegido hacer sobre el proyecto es de una tienda de botas de f
   CONCLUSIÓN
   
   La verdad que nos ha gustado realizar el proyecto ya que la parte de realizar las interfaces nos ha parecido bastante entretenida y útil.
-  Y sobre todo en general nos ha parecido un proyecto correcto ya que realizándolo hemos dado un paso demasiado grande en cuanto a conceptos, ya que hemos aprendido bastantes cosas nuevas que no sabíamos que ni existía.
+  Y sobre todo en general nos ha parecido un proyecto correcto ya que realizándolo hemos dado un paso demasiado grande en cuanto a conceptos, ya que hemos aprendido bastantes cosas nuevas que no sabíamos ni que existía.
