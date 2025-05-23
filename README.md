@@ -36,6 +36,7 @@ El tema que hemos elegido hacer sobre el proyecto es de una tienda de botas de f
   
   -> La segunda prueba que realizamos fue la de FiltroMultipleTest que básicamente lo que hace es permitir al usuario filtrar la tabla de botas de fútbol.
 
+
   CONCLUSIÓN
   
   La verdad que nos ha gustado realizar el proyecto ya que la parte de realizar las interfaces nos ha parecido bastante entretenida y útil.
