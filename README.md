@@ -13,8 +13,6 @@ El tema que hemos elegido hacer sobre el proyecto es de una tienda de botas de f
   
   -> FiltroMultiple: Ventana donde aparece una tabla enlazada con la base de datos que contiene todos los productos, donde se pueden filtrar por talla, color, modelo...
 
-  -> Producto: Ahí tenemos creada una clase que representa los productos con todos sus atributos.
-
   -> TopVentas: Ventana donde aparece las botas más vendidas en nuestra aplicación.
   
   
