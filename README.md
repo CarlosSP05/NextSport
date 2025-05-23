@@ -20,9 +20,12 @@ El tema que hemos elegido hacer sobre el proyecto es de una tienda de botas de f
   
 - Base de Datos (Nivel de dificultad: difícil)
   Hemos realizado una tabla donde aparece todos los tipos de botas, cada bota con sus atributos. (Esta parte no nos ha costado).
+  
   Una vez que ya teníamos la tabla realizada con todos los tipos de botas y demás, procedimos a enlazarlo con nuestro proyecto. (Esta parte nos costo un poco más).
+  
   Una vez ya acabado todo procedimos a realizar los triggers:
   -> El primer trigger lo que hace es que si el nuevo valor de cantidadStock es menor que cero, lanza un error y cancela la operación.
+  
   -> El segundo trigger lo que hace es que convierte el valor del campo marca a mayúsculas automáticas.
   
 - Entorno de desarrollo (Nivel de dificultad: intermedio)
